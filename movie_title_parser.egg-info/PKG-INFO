@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: movie-title-parser
+Version: 1.0
+Summary: A small library for parsing movie titles from file names
+Home-page: UNKNOWN
+Author: Terrence Plunkett
+Author-email: eightys3v3n@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: ['Natural Language :: English', 'Programming Language :: Python :: 3']

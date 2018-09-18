@@ -1,0 +1,11 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+movie_title_parser/__init__.py
+movie_title_parser/parsers.py
+movie_title_parser/presets.py
+movie_title_parser.egg-info/PKG-INFO
+movie_title_parser.egg-info/SOURCES.txt
+movie_title_parser.egg-info/dependency_links.txt
+movie_title_parser.egg-info/top_level.txt

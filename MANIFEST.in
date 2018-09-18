@@ -1,0 +1,2 @@
+include README.rst setup.py setup.cfg movie_title_parser
+global-exclude __pycache__
